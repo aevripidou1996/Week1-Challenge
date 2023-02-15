@@ -29,4 +29,4 @@ The second URL will once deployed will showcase the finished live application.
 
 Github URL: https://github.com/aevripidou1996/Week1-Challenge
 
-Live Application URL:
+Live Application URL: https://aevripidou1996.github.io/Week1-Challenge/
