@@ -11,6 +11,11 @@ This was acheived by combining & removing elements in CSS & HTML to reduce the a
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/114223852/218982026-f0d15992-2e6e-4d68-86d8-7419633389b3.png)
 
+![image](https://user-images.githubusercontent.com/114223852/218986714-8712a82a-ef6f-43fb-9a8d-d6ba798a5764.png)
+
+![image](https://user-images.githubusercontent.com/114223852/218987075-fef949da-501b-49de-9dce-065045aa173b.png)
+
+
 ## links
 In the link's bellow you will find 2 URL links. 
 
