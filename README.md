@@ -9,7 +9,7 @@ This was acheived by combining & removing elements in CSS & HTML to reduce the a
 
     
 ## Screenshot
-
+![image](https://user-images.githubusercontent.com/114223852/218982026-f0d15992-2e6e-4d68-86d8-7419633389b3.png)
 
 ## links
 In the link's bellow you will find 2 URL links. 
